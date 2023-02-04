@@ -52,14 +52,9 @@
                             </a>
                             <ul class="dropdown-menu text-small shadow" aria-labelledby="dropdownNavLink">
                                 <li><a class="dropdown-item active" href="#" aria-current="page">Overview</a></li>
-                                <li><a class="dropdown-item" href="#">Inventory</a></li>
-                                <li><a class="dropdown-item" href="#">Customers</a></li>
-                                <li><a class="dropdown-item" href="#">Products</a></li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li><a class="dropdown-item" href="#">Reports</a></li>
-                                <li><a class="dropdown-item" href="#">Analytics</a></li>
+                                <li><a class="dropdown-item" href="#">اتصل بنا</a></li>
+                                <li><a class="dropdown-item" href="#">الفئات</a></li>
+                                <li><a class="dropdown-item" href="#">الرئيسية</a></li>
                             </ul>
                         </div>
                     </div>
